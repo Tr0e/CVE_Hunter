@@ -42,5 +42,5 @@ txtusername=admin'and(select*from(select+sleep(3))a/**/union/**/select+1)='&txtp
 ## How to verify
 
 Build the vulnerability environment according to the steps provided by the source code author and execute the poc provided above：
+![image](https://user-images.githubusercontent.com/42080954/194333429-e9eb669d-2552-4f60-8bcb-e016b1e260b6.png)
 
-![](C:\Users\True\AppData\Roaming\marktext\images\2022-10-06-21-42-58-image.png)
