@@ -1,6 +1,6 @@
 ## Vulnerability Description
 
-[Web-Based Student Clearance System in PHP Free Source Code v1.0](https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html) was discovered to contain a cross-site scripting (XSS) vulnerability via the componentedit-admin.php. It is an open source project from [https://www.sourcecodester.com/](https://www.sourcecodester.com/). This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the shortName parameter.
+[Web-Based Student Clearance System in PHP Free Source Code v1.0](https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html) was discovered to contain a cross-site scripting (XSS) vulnerability via the componentedit-admin.php. It is an open source project from [https://www.sourcecodester.com/](https://www.sourcecodester.com/). This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the txtemail parameter.
 
 1. BUG_Author: Tr0e
   
