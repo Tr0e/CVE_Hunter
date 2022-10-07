@@ -2,7 +2,7 @@
 
 [The Web-based Student Clearance System v1.0](https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html) was discovered to contain a SQL injection vulnerability via the edit-admin.php. It is an open source project from [https://www.sourcecodester.com/](https://www.sourcecodester.com/). This vulnerability can lead to database information leakage.
 
-1. BUG_Author: Tr0e
+1. Bug Submitter: Tr0e
   
 2. vendors: [Web-Based Student Clearance System in PHP Free Source Code](https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html);
   
