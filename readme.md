@@ -1,4 +1,6 @@
 CVE漏洞挖掘记录, by Tr0e.
+
+详细教程请参见我的博文：[揭开CVE漏洞挖掘与编号申请那层神秘窗户纸](https://blog.csdn.net/weixin_39190897/article/details/127658586)
 | File | CVE Public Link|vendors|
 |--|--|--|
 | RCE-1.md | Duplicate of CVE-2022-3436 |www.sourcecodester.com|
