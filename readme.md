@@ -1,6 +1,21 @@
+# Description
+
 CVE漏洞挖掘记录, by Tr0e.
 
-详细教程请参见我的博文：[揭开CVE漏洞挖掘与编号申请那层神秘窗户纸](https://blog.csdn.net/weixin_39190897/article/details/127658586)
+# AI for CVE
+
+即将持续记录自己通过 AI 代码审计工具挖掘的 CVE 漏洞。
+
+已扫描并发现漏洞的开源项目：
+| File | CVE Public Link|vendors|
+|--|--|--|
+| [Tr0e/CVE_Hunter/AIAS](https://github.com/Tr0e/CVE_Hunter/tree/main/AIAS) | 申请中，待更新 | [https://github.com/mymagicpower/AIAS](https://github.com/mymagicpower/AIAS) |
+
+
+# Just a Game
+以下是 2022 年水着玩的 CVE Lists，用于初探 CVE 申请流程，并没太大营养。
+
+详细教程请参见我的博文（已暂时私有化）：[揭开CVE漏洞挖掘与编号申请那层神秘窗户纸](https://blog.csdn.net/weixin_39190897/article/details/127658586)。
 | File | CVE Public Link|vendors|
 |--|--|--|
 | RCE-1.md | Duplicate of CVE-2022-3436 |www.sourcecodester.com|
