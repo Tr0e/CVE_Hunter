@@ -16,7 +16,6 @@ CVE 漏洞挖掘记录, by Tr0e.
 详细教程请参见我的博文（已暂时私有化）：[揭开CVE漏洞挖掘与编号申请那层神秘窗户纸](https://blog.csdn.net/weixin_39190897/article/details/127658586)
 | File | CVE Public Link|vendors|
 |--|--|--|
-| RCE-1.md | Duplicate of CVE-2022-3436 |www.sourcecodester.com|
 | RCE-2.md | [CVE-2022-43083](https://nvd.nist.gov/vuln/detail/CVE-2022-43083) |www.codeastro.com|
 | RCE-3.md | [CVE-2022-43085](https://nvd.nist.gov/vuln/detail/CVE-2022-43085) |www.codeastro.com|
 | SQLi-3.md | [CVE-2022-43081](https://nvd.nist.gov/vuln/detail/CVE-2022-43081) |www.campcodes.com|
