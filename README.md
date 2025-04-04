@@ -6,7 +6,7 @@ CVE 漏洞挖掘记录, by Tr0e.
 | File | CVE Public Link|vendors|
 |--|--|--|
 | [Tr0e/CVE_Hunter/AIAS](https://github.com/Tr0e/CVE_Hunter/tree/main/AIAS) | CVE编号申请中 (待更新) |[https://github.com/mymagicpower/AIAS](https://github.com/mymagicpower/AIAS)|
-| [Tr0e/CVE_Hunter/ruoyi-ai](https://github.com/Tr0e/CVE_Hunter/tree/main/ruoyi-ai) | CVE编号申请中 (待更新)  |[https://github.com/ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)|
+| [Tr0e/CVE_Hunter/ruoyi-ai](https://github.com/Tr0e/CVE_Hunter/tree/main/ruoyi-ai) |[CVE-2025-3199](https://www.cve.org/CVERecord?id=CVE-2025-3199) </br>[CVE-2025-3202](https://www.cve.org/CVERecord?id=CVE-2025-3202)</br>CVE编号申请中 (待更新)  |[https://github.com/ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)|
 
 
 # Just a Game
@@ -19,4 +19,3 @@ CVE 漏洞挖掘记录, by Tr0e.
 | RCE-2.md | [CVE-2022-43083](https://nvd.nist.gov/vuln/detail/CVE-2022-43083) |www.codeastro.com|
 | RCE-3.md | [CVE-2022-43085](https://nvd.nist.gov/vuln/detail/CVE-2022-43085) |www.codeastro.com|
 | SQLi-3.md | [CVE-2022-43081](https://nvd.nist.gov/vuln/detail/CVE-2022-43081) |www.campcodes.com|
-| SQLi-4.md | [CVE-2022-43086](https://nvd.nist.gov/vuln/detail/CVE-2022-43086) |www.campcodes.com|
