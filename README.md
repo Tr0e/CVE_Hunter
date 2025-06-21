@@ -6,7 +6,7 @@ CVE 漏洞挖掘记录, by Tr0e.
 | File | CVE Public Link|vendors|
 |--|--|--|
 | [Tr0e/CVE_Hunter/AIAS](https://github.com/Tr0e/CVE_Hunter/tree/main/AIAS) | [CVE-2025-3410](https://www.cve.org/CVERecord?id=CVE-2025-3410) </br>  [CVE-2025-3411](https://www.cve.org/CVERecord?id=CVE-2025-3411) </br>[CVE-2025-3412](https://www.cve.org/CVERecord?id=CVE-2025-3412)  |[https://gitee.com/mymagicpower/AIAS](https://gitee.com/mymagicpower/AIAS)|
-| [Tr0e/CVE_Hunter/ruoyi-ai](https://github.com/Tr0e/CVE_Hunter/tree/main/ruoyi-ai) |[CVE-2025-3199](https://www.cve.org/CVERecord?id=CVE-2025-3199) </br>[CVE-2025-3202](https://www.cve.org/CVERecord?id=CVE-2025-3202)</br>|[https://github.com/ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)|
+| [Tr0e/CVE_Hunter/ruoyi-ai](https://github.com/Tr0e/CVE_Hunter/tree/main/ruoyi-ai) |[CVE-2025-6466](https://www.cve.org/CVERecord?id=CVE-2025-6466) </br>[CVE-2025-3199](https://www.cve.org/CVERecord?id=CVE-2025-3199) </br>[CVE-2025-3202](https://www.cve.org/CVERecord?id=CVE-2025-3202)</br>|[https://github.com/ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai)|
 
 
 # Just a Game
